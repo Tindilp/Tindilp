@@ -6,7 +6,7 @@
 
 :rocket: Metiendole en tiempos libres a Swift (futuro iOS developer jaja)
 
-Algunas tecnologias que tuve la oportunidad de ver:
+:books: Algunas tecnologias que tuve la oportunidad de ver:
 - HTML
 - CSS
 - JS
