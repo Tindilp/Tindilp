@@ -2,7 +2,7 @@
 
 # Hi :wave: soy Lucas!
 
-:nerd_face: Actualmente estudiando estoy estudiando la carrera de Licenciatura en sistemas
+:nerd_face: Actualmente estoy estudiando la carrera de Licenciatura en sistemas
 
 :rocket: Metiendole en tiempos libres a Swift (futuro iOS developer jaja)
 
